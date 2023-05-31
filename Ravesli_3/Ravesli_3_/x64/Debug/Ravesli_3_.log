@@ -1,0 +1,3 @@
+﻿  Ravesli_3_.cpp
+C:\Users\Админ\source\repos\Ravesli\Ravesli_3\Ravesli_3_\Ravesli_3_.cpp(15,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Ravesli_3_.vcxproj -> C:\Users\Админ\source\repos\Ravesli\Ravesli_3\Ravesli_3_\x64\Debug\Ravesli_3_.exe
