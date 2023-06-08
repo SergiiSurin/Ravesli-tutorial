@@ -1,0 +1,6 @@
+﻿  mystring.cpp
+C:\Users\Админ\source\repos\Ravesli\class mystring\mystring\mystring.cpp(37,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Админ\source\repos\Ravesli\class mystring\mystring\mystring.cpp(76,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Админ\source\repos\Ravesli\class mystring\mystring\mystring.cpp(97,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Админ\source\repos\Ravesli\class mystring\mystring\mystring.cpp(129,36): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  mystring.vcxproj -> C:\Users\Админ\source\repos\Ravesli\class mystring\mystring\x64\Debug\mystring.exe
