@@ -1,0 +1,3 @@
+﻿  Simple.cpp
+C:\Users\Админ\source\repos\Ravesli\Ravesli_p3\Simple\Simple.cpp(65,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Simple.vcxproj -> C:\Users\Админ\source\repos\Ravesli\Ravesli_p3\Simple\x64\Debug\Simple.exe
